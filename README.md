@@ -1,4 +1,4 @@
-## Open Ventilator Remote Monitoring Project - Documentatio
+## Open Ventilator Remote Monitoring Project - Documentation
 Please view the documentation in the [Project Wiki](https://github.com/Open-Ventilator-Remote-Monitoring/docs/wiki), available in the top menu bar.
 
 ### Guidelines
